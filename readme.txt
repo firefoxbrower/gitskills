@@ -1,2 +1,1 @@
-大的
-C热昂代发
+Creating a new branch is quick AND simple.
